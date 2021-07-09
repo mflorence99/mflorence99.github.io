@@ -304,6 +304,9 @@ Apache-2.0
    limitations under the License.
 
 
+polygon-centroid
+MIT
+
 rxjs
 Apache-2.0
                                Apache License
